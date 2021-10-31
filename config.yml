@@ -89,14 +89,14 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/stableversion/stableversion.github.io"
+          url: "https://github.com/stableversion/pages/"
         - name: RsS
           url: "index.xml"
         - name: Bandcamp
           url: "https://stableversion.bandcamp.com"
 
     editPost:
-        URL: "https://github.com/stableversion/stableversion.github.io"
+        URL: "https://github.com/stableversion/pages/"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
