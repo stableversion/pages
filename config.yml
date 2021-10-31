@@ -48,9 +48,12 @@ params:
     logo:
         logoText: aira
         logoHomeLink: /
+    assets:
+        disableFingerprinting: true
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Personal Archive"
     author: Aira
+
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: light
