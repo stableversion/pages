@@ -96,7 +96,7 @@ params:
           url: "https://stableversion.bandcamp.com"
 
     editPost:
-        URL: "https://github.com/stableversion/pages/"
+        URL: "https://github.com/stableversion/pages/tree/master/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
