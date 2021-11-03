@@ -67,7 +67,7 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    images: ["main.jpg"]
 
     profileMode:
         enabled: false
@@ -85,10 +85,8 @@ params:
               url: music
 
     homeInfoParams:
-        Title: "Aira"
-        Content: Hi. This is a place for all my stuff, worthless or not.
-            
-            
+        Content: >                        
+            ![Paper](main.webp).            
 
     socialIcons:
         - name: github
