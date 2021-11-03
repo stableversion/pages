@@ -72,7 +72,7 @@ params:
     profileMode:
         enabled: false
         title: Aira
-        imageUrl: "#"
+        imageUrl: "main.jpg"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120

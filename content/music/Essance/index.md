@@ -4,7 +4,7 @@ summary: stableversion - Essence
 date: 2021-10-08
 weight: 1
 cover:
-    image: "./header.avif"
+    image: "header.avif"
     alt: "Taken From Listen To Time Again MAD"
      
 aliases: ["/essence"]
