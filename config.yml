@@ -86,7 +86,7 @@ params:
 
     homeInfoParams:
         Content: >                        
-            ![Paper](main.webp).            
+            ![Paper](main.webp)            
 
     socialIcons:
         - name: github
