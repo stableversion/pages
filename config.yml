@@ -34,9 +34,6 @@ languages:
                 - name: Categories
                   url: categories/
                   weight: 10
-                - name: Music
-                  url: music/
-                  weight: 1
 
 outputs:
     home:
@@ -81,8 +78,6 @@ params:
               url: archives
             - name: Tags
               url: tags
-            - name: Music
-              url: music
 
     homeInfoParams:
         Content: >                        

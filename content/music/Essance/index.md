@@ -4,7 +4,7 @@ summary: stableversion - Essence
 date: 2021-10-08
 weight: 1
 cover:
-    image: "header.avif"
+    image: "img/header.avif"
     alt: "Taken From Listen To Time Again MAD"
      
 aliases: ["/essence"]
@@ -18,7 +18,7 @@ author: "Aira"
 
 This one was a weird one. Usually I'm inspired by some sort of melody or sound-type that I listen to, but this was just me opening up Ableton and starting to make something -- and that never happens. Maybe this is why it took me so long to finish, because I just didn't have any associations while making it. <abbr title="Maybe I appeared somewhere else, ahaha">This also happens to be the first track I released in a year.</abbr> Also my first track to be made entirely on Linux ;) I use arch btw. I'll write a post about that eventually.
 
-![AbletonLinux](./abletonlinux.avif)
+![AbletonLinux](./img/abletonlinux.avif)
 
 The name is pretty self explanatory, essence just means:
 ```
