@@ -25,6 +25,9 @@ languages:
                 - name: Archive
                   url: archives
                   weight: 5
+                - name: Music
+                  url: music
+                  weight: 5
                 - name: Search
                   url: search/
                   weight: 10
@@ -34,6 +37,9 @@ languages:
                 - name: Categories
                   url: categories/
                   weight: 10
+                - name: Contact
+                  url: contact/
+                  weight: 15
 
 outputs:
     home:
