@@ -25,7 +25,7 @@ Anyway, I hope you dont find them too cringy, enjoy.
 
 ## Planetarian
 
-![img](planetarian-a.jpg)
+![img](planetarian-a.avif)
 
 I am yumemi hoshino. Thank you for such a beautiful name.
 
@@ -94,7 +94,7 @@ Tue 16 Jun 2020 11∶55∶11 AM MDT
 
 ## Creator
 
-![img](84365461_p0.png)
+![img](84365461_p0.avif)
 
 And give life to a world, that's our own.
 
@@ -163,7 +163,7 @@ Wed 01 Apr 2020 12∶08∶57 PM MDT
 
 ## Serial Experiments Lain
 
-![img](lainwired.jpg)
+![img](lainwired.avif)
 
 No matter where you go, everybody's connected.
 
@@ -210,7 +210,7 @@ Sun 30 May 2021 04∶56∶48 PM MDT
 
 ## December
 
-![img](tumblr_84152b34a7a03d8f9afbcccba62b2507_8dffb2e1_1280.jpg)
+![img](tumblr_84152b34a7a03d8f9afbcccba62b2507_8dffb2e1_1280.avif)
 
 Eternal December
 
@@ -243,7 +243,7 @@ Sat 05 Dec 2020 12∶36∶06 AM MST
 
 ## Nightmare
 
-![img](82580840_p0.jpg)
+![img](82580840_p0.avif)
 
 It was just a dream
 
