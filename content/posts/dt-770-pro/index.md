@@ -25,15 +25,15 @@ As once you do, you wouldn't want to go back.
 
 I didn't like how they sounded at first, it felt off, but after 10 minutes I started hearing things I previously hadn't in songs I've listened to at least a thousand times, or rather, I've probably always heard them, but they just got blended with other sounds like a curtain.
 
-> They are increadibly clear, so clear that your brain needs to readjust to understand it.
+> They are incredibly clear, so clear that your brain needs to readjust to understand it.
 
 I also noticed how transparent the reverb tail is. It's like I solo'd the track and just listened to it indivudally instead of the whole song. This theme of seperation is very prominent with them. You can tell "how far" the elements are from the "front," but still sound like they belong there. Now I can tell how big someone's room is and how much stuff is in it purely based on the reverb of their room.
 
 They are also very punchy; when the kick hits, you feel it, and I mean, you LITERLY FEEL IT, the headphones vibrate! But it's a very pleasant vibration, unlike other headphones advertised as "bass'y." But still retain a very clear bass. You can clearly hear the seperation from the bass and kick frequencies, instead of it all sounding like a mufffled mess!
 
-> Listening to My Bloody Valentine really feels like someone is scratching your brain, because the headphones are literally vibrating your scalp. But somehow, even though it's compressed to hell, you can still hear the little details.
+> Listening to My Bloody Valentine really feels like someone is scratching your brain, because the headphones are literally vibrating your skull. But somehow, even though it's compressed to hell, you can still hear the little details.
 
-... most aspects of it cannot be explained; they must be experienced. It's truly euphoric. 
+And yet... most aspects of it cannot be explained; they must be experienced. It's truly euphoric. 
 
 ## For Producers
 
