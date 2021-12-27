@@ -2,17 +2,15 @@
 title: "Essence"
 summary: stableversion - Essence
 date: 2021-10-08
-weight: 1
-cover:
-    image: "img/header.avif"
-    alt: "Taken From Listen To Time Again MAD"
-     
+weight: 1 
 aliases: ["/essence"]
 categories: ["Music"]
 author: "Aira"
 ---
 
+Image Source: Listen To Time Again MAD
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1138962307&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/stableversion" title="stableversion" target="_blank" style="color: #cccccc; text-decoration: none;">stableversion</a> · <a href="https://soundcloud.com/stableversion/essence" title="Essence" target="_blank" style="color: #cccccc; text-decoration: none;">Essence</a></div>
 
 [Buy on bandcamp! (But also available on all streaming platform's)](https://stableversion.bandcamp.com/track/essence)
 
