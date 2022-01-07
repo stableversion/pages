@@ -17,7 +17,7 @@ minify:
 
 languages:
     en:
-        title: Aira
+        title: アイラ
         languageName: "English"
         weight: 1
         menu:
