@@ -86,8 +86,9 @@ params:
               url: tags
 
     homeInfoParams:
+        Title: ⠀ ![Paper](mzi98.webp) 
         Content: >                        
-            ![Paper](main.webp)            
+            Sometimes, my silly little head, makes silly little things          
 
     socialIcons:
         - name: github
