@@ -53,7 +53,8 @@ Eternity does not feel the same.
 
 No matter how many times I listened to it, it never got boring and still gives me the same feeling it did two years ago. It's very significant, so much so that I've written a poem about it, though you won't see it, at least not now.
 
-```kors k
+```
+kors k
 
 It was intense.
 
