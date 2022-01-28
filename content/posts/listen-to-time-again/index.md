@@ -31,8 +31,6 @@ AMVs on the other hand typically describe the American media subculture of editi
 
 The short M@D video for Saishuu Heiki Kanojo is a work on the theme of love and time, but it's more comprehensive in its graphics than its philosophical content, as M@D's tend to do the latter. The music video turned out to be absolutly beatiful for its time, to the point where it's hard to believe it was made in 2005, with such limited graphics capabilities. 
 
-To successfully serve this material to the fast trance song Love is Eternity, a lot of original graphics, nice effects, and interesting transitions were created and used. 
-
 The thing that kept standing out to me was the poor knowledge of English, which is quite peculiar to the vast majority of Japanese authors. You know, I think you can forgive the Japanese for not paying too much attention to their pronunciation and spelling ;)
 
 This clip was awarded the best Seishigа (still picture) M@D 2005 in Japan. (Seishiga M@D grand prize 2005 that you choose)
@@ -160,24 +158,3 @@ The depths to which it can convey emotions -- without denoting a single word.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">❯ concept: our obsession with progress driving us away from the human component of our existence.<br>❯ model: very high number of polygons to demonstrate renderpower.<br>❯ background: a scientific paper on &quot;digital computers&quot; from the late 1950s as a reminder of where it all began. <a href="https://t.co/XtpKde77sv">pic.twitter.com/XtpKde77sv</a></p>&mdash; julie (@VOLANTmusic) <a href="https://twitter.com/VOLANTmusic/status/1486788383674359810?ref_src=twsrc%5Etfw">January 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Also, for some strange reason, most people into this style tend to be leftists. I wonder what that could mean. Maybe it promotes empathy or something ;)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
