@@ -51,7 +51,7 @@ Eternity does not feel the same.
 
 > kors k ［Remixed by Sota Fujimori］- Love Is Eternity ～SF SYNTH TRANCE MIX～ 
 
-No matter how many times I listened to it, it never got boring and still gives me the same feeling it did two years ago. It's very significant, so much so that I've written a poem about it, though you won't see it, at least not now.
+No matter how many times I listened to it, it never got old, and still gives me the same feeling it did two years ago. It allowed me to dream again, and make countless stories in my head. And if you ever wonder why my creations always have some cringy backstory or explanation to them, that's why.
 
 ```
 kors k
@@ -90,11 +90,6 @@ Your browser does not support the audio element.
 </audio> 
 
 <audio controls>
-  <source src="./audio/Extra_Eterne Love.m4a" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio> 
-
-<audio controls>
   <source src="./audio/LoveR1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
@@ -125,6 +120,11 @@ Your browser does not support the audio element.
 </audio> 
 
 <audio controls>
+  <source src="./audio/Extra_Eterne Love.m4a" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
+<audio controls>
   <source src="./audio/ETERNITY -8.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
@@ -146,8 +146,6 @@ Its one of the many reasons I adore this style -- its pure sincerity. It's not a
 
 But it would not be complete without, arguably, the most important part -- the audio experience. There's just something special about these euthoric melodies, manifesting the boundlessness of the infite sky. The feeling, which has been greatly lost to time. There aren't many things trying to convey it anymore, and I guess that's what makes it special. 
 
-The depths to which it can convey emotions -- without denoting a single word.
-
 {{<youtube "FqjWroruczQ?start=348">}}
 
 ![](./img/1238269.avif)
@@ -157,5 +155,3 @@ The depths to which it can convey emotions -- without denoting a single word.
 ![](./img/FKDNb8MWQAADwys.avif)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">❯ concept: our obsession with progress driving us away from the human component of our existence.<br>❯ model: very high number of polygons to demonstrate renderpower.<br>❯ background: a scientific paper on &quot;digital computers&quot; from the late 1950s as a reminder of where it all began. <a href="https://t.co/XtpKde77sv">pic.twitter.com/XtpKde77sv</a></p>&mdash; julie (@VOLANTmusic) <a href="https://twitter.com/VOLANTmusic/status/1486788383674359810?ref_src=twsrc%5Etfw">January 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-Also, for some strange reason, most people into this style tend to be leftists. I wonder what that could mean. Maybe it promotes empathy or something ;)
