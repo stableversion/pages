@@ -20,8 +20,8 @@ It's unfortunate that many people try out **studio** headphones and feel as if t
 As once you do, you wouldn't want to go back.
 
 {{<youtube Cfn5vl0CXXM>}}
-{{<youtube grlYRK1aSus?t=727>}}
-{{<youtube EIMiJ1MY2eo?t=1256>}}
+{{<youtube "grlYRK1aSus?t=727">}}
+{{<youtube "EIMiJ1MY2eo?t=1256">}}
 
 ---
 
